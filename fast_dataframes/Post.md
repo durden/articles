@@ -1,4 +1,3 @@
-
 Each layer of abstraction typically adds some performance overhead.  Often
 times that's a great tradeoff, but it's important to make the decision between
 fun
@@ -13,7 +12,7 @@ overhead when it's not necessary.  For example we can use the
 attribute on a [Series object](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html#pandas.Series) to speed up this operation by an order of magnitude (your mileage may vary).
 
 
-[code lang='python']
+```python
     import time
     import numpy
     import pandas
@@ -55,11 +54,11 @@ attribute on a [Series object](http://pandas.pydata.org/pandas-docs/stable/gener
 
     if __name__ == '__main__':
         main()
-[/code]
+```
 
 
-Time for DF slice 0.01664686203
-Time for ndarray slice 0.00168609619141
+    Time for DF slice 0.01664686203
+    Time for ndarray slice 0.00168609619141
 
 
 This technique can also be useful if you want to slice by a bunch of columns at
