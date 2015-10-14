@@ -1,4 +1,4 @@
-Todays' article is about Pandas.
+Todays' article is about Pandas. I hope it's interesting.
 
 Each layer of abstraction typically adds some performance overhead.  Often
 times that's a great tradeoff, but it's important to make the decision between
