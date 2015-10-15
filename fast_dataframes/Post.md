@@ -1,56 +1,65 @@
-RWFjaCBsYXllciBvZiBhYnN0cmFjdGlvbiB0eXBpY2FsbHkgYWRkcyBzb21l
-IHBlcmZvcm1hbmNlIG92ZXJoZWFkLiAgT2Z0ZW4KdGltZXMgdGhhdCdzIGEg
-Z3JlYXQgdHJhZGVvZmYsIGJ1dCBpdCdzIGltcG9ydGFudCB0byBtYWtlIHRo
-ZSBkZWNpc2lvbiBiZXR3ZWVuCmZ1bgoKW1BhbmRhc10oaHR0cDovL3BhbmRh
-cy5weWRhdGEub3JnKSBpcyBhIGdyZWF0IGxpYnJhcnkgZm9yIGVhc2lseSB3
-b3JraW5nIHdpdGgKbWVzc3kgZGF0YXNldHMgdGhhdCBhcmUgYmlnIGVub3Vn
-aCB0byBmaXQgaW4gbWVtb3J5LCBidXQgaXQncyBpbXBvcnRhbnQgdG8KcmVt
-ZW1iZXIgdGhlIHBlcmZvcm1hbmNlIG92ZXJoZWFkIAoKTHVja2lseSBQYW5k
-YXMgZXhwb3NlcyB0aGUgcmF3IG51bXB5IGludGVyZmFjZSBzbyB3ZSBjYW4g
-YnlwYXNzIHNvbWUgb2YgdGhhdApvdmVyaGVhZCB3aGVuIGl0J3Mgbm90IG5l
-Y2Vzc2FyeS4gIEZvciBleGFtcGxlIHdlIGNhbiB1c2UgdGhlClt2YWx1ZXNd
-KGh0dHA6Ly9wYW5kYXMucHlkYXRhLm9yZy9wYW5kYXMtZG9jcy9zdGFibGUv
-Z2VuZXJhdGVkL3BhbmRhcy5TZXJpZXMudmFsdWVzLmh0bWwjcGFuZGFzLlNl
-cmllcy52YWx1ZXMpCmF0dHJpYnV0ZSBvbiBhIFtTZXJpZXMgb2JqZWN0XSho
-dHRwOi8vcGFuZGFzLnB5ZGF0YS5vcmcvcGFuZGFzLWRvY3Mvc3RhYmxlL2dl
-bmVyYXRlZC9wYW5kYXMuU2VyaWVzLmh0bWwjcGFuZGFzLlNlcmllcykgdG8g
-c3BlZWQgdXAgdGhpcyBvcGVyYXRpb24gYnkgYW4gb3JkZXIgb2YgbWFnbml0
-dWRlICh5b3VyIG1pbGVhZ2UgbWF5IHZhcnkpLgoKCmBgYHB5dGhvbgogICAg
-aW1wb3J0IHRpbWUKICAgIGltcG9ydCBudW1weQogICAgaW1wb3J0IHBhbmRh
-cwoKCiAgICBkZWYgbWFpbigpOgogICAgICAgIGRmID0gcGFuZGFzLkRhdGFG
-cmFtZSgpCgogICAgICAgICMgV2UncmUgb25seSBkZWFsaW5nIHdpdGggYSBz
-aW5nbGUgY29sdW1uIGluIG91ciBwcm9maWxpbmcgYnV0IGFzc3VtZSB3ZSdy
-ZQogICAgICAgICMgZGVhbGluZyB3aXRoIGNvZGUgd2hlcmUgd2UgZ2V0IHBh
-c3NlZCBhIGJpZyBkYXRhZnJhbWUuCiAgICAgICAgZGZbJ2EnXSA9IG51bXB5
-LnJhbmRvbS5yYW5kb21faW50ZWdlcnMoMCwgMTAsIHNpemU9MTAwMDAwMCkK
-ICAgICAgICBkZlsnYiddID0gbnVtcHkucmFuZG9tLnJhbmRvbV9pbnRlZ2Vy
-cygwLCAxMCwgc2l6ZT0xMDAwMDAwKQogICAgICAgIGRmWydjJ10gPSBudW1w
-eS5yYW5kb20ucmFuZG9tX2ludGVnZXJzKDAsIDEwLCBzaXplPTEwMDAwMDAp
-CgogICAgICAgIHMgPSB0aW1lLnRpbWUoKQogICAgICAgIGRmWydhJ10gPT0g
-NQogICAgICAgIHByaW50ICdUaW1lIGZvciBERiBzbGljZScsIHRpbWUudGlt
-ZSgpIC0gcwoKICAgICAgICBzID0gdGltZS50aW1lKCkKICAgICAgICBkZlsn
-YSddLnZhbHVlcyA9PSA1CiAgICAgICAgcHJpbnQgJ1RpbWUgZm9yIG5kYXJy
-YXkgc2xpY2UnLCB0aW1lLnRpbWUoKSAtIHMKCiAgICAgICAgIyBUaGlzIGlz
-IGFsc28gYXBwbGljYWJsZSBpZiB5b3Ugd2FudCB0byBnZXQgdGhlIHVuaW9u
-IG9mIHNldmVyYWwgY29sdW1ucy4KICAgICAgICAjIFNhdmUgdGhlIGxpbmlu
-ZyB1cCBvZiB0aGUgaW5kZXhlcywgZXRjLiB1bnRpbCB0aGUgbGFzdCBzdGVw
-IGluc3RlYWQgb2YKICAgICAgICAjIGluY3VycmluZyB0aGF0IG92ZXJoZWFk
-IG9uIGVhY2ggc2xpY2UuCiAgICAgICAgcyA9IHRpbWUudGltZSgpCiAgICAg
-ICAgZGZfc2xpY2VzID0gZGZbKGRmWydhJ10gPT0gMSkgJiAoZGZbJ2InXSA9
-PSAxKSAmIChkZlsnYyddID09IDEpXQogICAgICAgIHByaW50ICdUaW1lIGZv
-ciBERiBzbGljZScsIHRpbWUudGltZSgpIC0gcwoKICAgICAgICBzID0gdGlt
-ZS50aW1lKCkKICAgICAgICBzbGljZV9hID0gZGZbJ2EnXS52YWx1ZXMgPT0g
-MQogICAgICAgIHNsaWNlX2IgPSBkZlsnYiddLnZhbHVlcyA9PSAxCiAgICAg
-ICAgc2xpY2VfYyA9IGRmWydjJ10udmFsdWVzID09IDEKICAgICAgICBuZF9z
-bGljZXMgPSBkZltzbGljZV9hICYgc2xpY2VfYiAmIHNsaWNlX2NdCiAgICAg
-ICAgcHJpbnQgJ1RpbWUgZm9yIG5kYXJyYXkgc2xpY2UnLCB0aW1lLnRpbWUo
-KSAtIHMKCiAgICAgICAgIyBKdXN0IGRvdWJsZSBjaGVjayB0aGF0IGJvdGgg
-bWV0aG9kcyByZXR1cm5lZCBzYW1lIGRhdGEKICAgICAgICBwYW5kYXMudXRp
-bC50ZXN0aW5nLmFzc2VydF9mcmFtZV9lcXVhbChkZl9zbGljZXMsIG5kX3Ns
-aWNlcykKCiAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgICAg
-IG1haW4oKQpgYGAKCgogICAgVGltZSBmb3IgREYgc2xpY2UgMC4wMTY2NDY4
-NjIwMwogICAgVGltZSBmb3IgbmRhcnJheSBzbGljZSAwLjAwMTY4NjA5NjE5
-MTQxCgoKVGhpcyB0ZWNobmlxdWUgY2FuIGFsc28gYmUgdXNlZnVsIGlmIHlv
-dSB3YW50IHRvIHNsaWNlIGJ5IGEgYnVuY2ggb2YgY29sdW1ucyBhdApvbmNl
-IGFuZCB0aGVuIHRha2UgdGhlIHJvd3MgdGhleSBoYXZlIGluIGNvbW1vbiBm
-cm9tIHRoZSBkYXRhIGZyYW1lLgo=
+Each layer of abstraction typically adds some performance overhead.  Often
+times that's a great tradeoff, but it's important to make the decision between
+fun
+
+[Pandas](http://pandas.pydata.org) is a great library for easily working with
+messy datasets that are big enough to fit in memory, but it's important to
+remember the performance overhead 
+
+Luckily Pandas exposes the raw numpy interface so we can bypass some of that
+overhead when it's not necessary.  For example we can use the
+[values](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.values.html#pandas.Series.values)
+attribute on a [Series object](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html#pandas.Series) to speed up this operation by an order of magnitude (your mileage may vary).
+
+
+```python
+    import time
+    import numpy
+    import pandas
+
+
+    def main():
+        df = pandas.DataFrame()
+
+        # We're only dealing with a single column in our profiling but assume we're
+        # dealing with code where we get passed a big dataframe.
+        df['a'] = numpy.random.random_integers(0, 10, size=1000000)
+        df['b'] = numpy.random.random_integers(0, 10, size=1000000)
+        df['c'] = numpy.random.random_integers(0, 10, size=1000000)
+
+        s = time.time()
+        df['a'] == 5
+        print 'Time for DF slice', time.time() - s
+
+        s = time.time()
+        df['a'].values == 5
+        print 'Time for ndarray slice', time.time() - s
+
+        # This is also applicable if you want to get the union of several columns.
+        # Save the lining up of the indexes, etc. until the last step instead of
+        # incurring that overhead on each slice.
+        s = time.time()
+        df_slices = df[(df['a'] == 1) & (df['b'] == 1) & (df['c'] == 1)]
+        print 'Time for DF slice', time.time() - s
+
+        s = time.time()
+        slice_a = df['a'].values == 1
+        slice_b = df['b'].values == 1
+        slice_c = df['c'].values == 1
+        nd_slices = df[slice_a & slice_b & slice_c]
+        print 'Time for ndarray slice', time.time() - s
+
+        # Just double check that both methods returned same data
+        pandas.util.testing.assert_frame_equal(df_slices, nd_slices)
+
+    if __name__ == '__main__':
+        main()
+```
+
+
+    Time for DF slice 0.01664686203
+    Time for ndarray slice 0.00168609619141
+
+
+This technique can also be useful if you want to slice by a bunch of columns at
+once and then take the rows they have in common from the data frame.
