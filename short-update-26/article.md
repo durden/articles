@@ -1,3 +1,3 @@
 # Very short article
 
-Hi.
+I don't have anything interesting to say.
