@@ -1,5 +1,3 @@
-# Python versioning
-
 ## Motivation
 
 I recently spent a little time reviewing a [Python](http://python.org) bug
