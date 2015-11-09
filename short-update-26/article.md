@@ -1,3 +1,3 @@
 # Very short article
 
-No text.
+Hi.
