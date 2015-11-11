@@ -1,6 +1,6 @@
 ## Motivation
 
-I recently spent some time reviewing a [Python](http://python.org) bug
+I recently spent time reviewing a [Python](http://python.org) bug
 report and determining if I was running with a fixed version of the
 [Python](http://python.org) interpreter. I think this is a useful exercise
 for someone who is overly curious and not a core developer of the language.
