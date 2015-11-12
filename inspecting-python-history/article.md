@@ -1,4 +1,4 @@
-One of the great things about a project like [Python](http://python.org) being
+One of the awesome things about a project like [Python](http://python.org) being
 open source is that anyone can go look at the code and find a 'paper' trail
 detailing the reasons for almost every line of code. I personally don't take
 advantage of this enough.
