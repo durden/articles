@@ -1,6 +1,9 @@
 {
     "author_name": "edroman",
     "branch": "master",
+    "branches": [
+        "perkolasoft"
+    ],
     "filename": "article.md",
     "language": null,
     "title": "Test article"
