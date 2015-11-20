@@ -3,7 +3,8 @@
     "branch": "master",
     "branches": [
         "perkolasoft",
-        "durden"
+        "durden",
+        "prtkgpt"
     ],
     "filename": "article.md",
     "language": null,
