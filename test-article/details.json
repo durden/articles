@@ -8,5 +8,6 @@
     ],
     "filename": "article.md",
     "language": null,
-    "title": "Test article"
+    "title": "Test article",
+    "published": false
 }
