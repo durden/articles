@@ -1,6 +1,7 @@
 {
     "author_name": "durden",
     "branch": "master",
+    "branches": [],
     "filename": "article.md",
     "language": null,
     "title": "Inspecting Python history"
