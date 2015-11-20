@@ -1,1 +1,1 @@
-This is a test
+We are excited to announce Pluralsight Tutorials. Tutorials will be a dedicated go-to place for Pluralsight community to create, help curate and share high quality, meaningful content on current/trending topics. Tutorials CMS developer focused, and powered by github to create seamless collaboration.
