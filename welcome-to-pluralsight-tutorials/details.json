@@ -5,5 +5,5 @@
     "filename": "article.md",
     "language": null,
     "title": "Welcome to Pluralsight Tutorials",
-    "published": "True",
+    "published": true,
 }
