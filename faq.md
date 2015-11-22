@@ -1,13 +1,13 @@
 - What is Pluralsight Tutorials?
     - This is a community for collaborating on creating great technical tutorials.
     - Our collective aim is by working together, we can educate the world, plus improve our own knowledge.
-- Why would I write for Pluralsight Tutorials?
+- Why would I contribute tutorials here?
     - Give your expertise back to the community
     - The best way to learn for yourself is to teach others
-    - We offer promotion and distribution of your articles to a wide audience (much more than a personal blog post)
+    - Our community collectively offers promotion and distribution of your tutorials to a wide audience (much more than a personal blog post)
     - We can help you promote the content on HackerNews to get a lot of eyeballs and traffic
-    - We can help you improve your articles with peer review of your content
-    - Improve your personal brand, leading to opportunities for your career
+    - Our community can help improve your tutorials with peer review of your content
+    - Improve your personal brand by being a thought leader, leading to opportunities for your career
     - If you write a very high quality tutorial, we'll give you a free subscription to Pluralsight, so that you can keep your skils sharp.
     - If you've created any Pluralsight videos, your tutorials can promote those videos you've created, earning more income
 - What is the technology behind this site?
