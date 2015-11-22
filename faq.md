@@ -33,8 +33,8 @@ Think of this as a "Wikipedia" for technical tutorials.
 - One easy thing you can do is to check-out what else is out their for this particular subject.  Try doing a quick search now for some topics that interest you.  Other articles are generally OK so long as there is enough unique/useful content that sets your article apart.  Are there ideas you can talk about in your proposed article that hasn't already been written?  Enough interesting unique contributions that can be added that moves the world's knowledge forward? Those are some things to think about.
 
 ## What is the writing process?
-1) [Submit an tutorial](/write/)
-2) Share a link for suggestions to your article with friends, co-workers, etc.
-3) Continue improving your article with the community help
-4) Our editors will also assist you with improving your article
-5) Publish your article!
+1. [Submit an tutorial](/write/)
+2. Share a link for suggestions to your article with friends, co-workers, etc.
+3. Continue improving your article with the community help
+4. Our editors will also assist you with improving your article
+5. Publish your article!
