@@ -1,6 +1,6 @@
 - What is Pluralsight Tutorials?
     - This is a community for collaborating on creating great technical tutorials.
-    - By working together, we can educate the world, plus improve our own knowledge.
+    - Our collective aim is by working together, we can educate the world, plus improve our own knowledge.
 - Why would I write for Pluralsight Tutorials?
     - Give your expertise back to the community
     - The best way to learn for yourself is to teach others
