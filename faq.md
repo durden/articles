@@ -26,9 +26,6 @@ Think of this as a "Wikipedia" for technical tutorials.
 ## Can you help me edit/revise the article?
 - Yes! That's why we've built the editing tools on this site. It's easy to share a link to your article on social media and crowdsource expert-level editors for your topic.  You'll be able to see suggestions from the community and accept the changes you want.  Our editors can help improve it too.
 
-## What type of content is appropriate to post?
-- In general, content marketing is very hit-driven.  95% of posts don't get results, but the ones that do make up for all the others that don't.  So that's why the only strategy that generally works is to write fewer pieces that are more definitive in nature.
-
 ## How do I know if my tutorial idea is any good?
 - One easy thing you can do is to check-out what else is out their for this particular subject.  Try doing a quick search now for some topics that interest you.  Other articles are generally OK so long as there is enough unique/useful content that sets your article apart.  Are there ideas you can talk about in your proposed article that hasn't already been written?  Enough interesting unique contributions that can be added that moves the world's knowledge forward? Those are some things to think about.
 
