@@ -16,7 +16,7 @@ Think of this as a "Wikipedia" for technical tutorials.
 It's super cool :)
 - We use Github for article storage.  This way you can directly edit your articles via git and Github, and your favorite text editor
 - If you aren't familiar with git/Github, or don't want to bother with that, that's fine too -- we have a visual editor on our site to edit tutorials right here.
-- We use Markdown as the file format.  This is a really simple text-based file format that takes around 60 seconds to understand.  Markdown is used in many places, such as Github README files.
+- We use Markdown as the file format.  This is a really simple text-based file format that takes around 60 seconds to understand.  It's really easy to make things **bold**, _italics_, `code blocks`, etc.  Markdown is used in many places, such as Github README files.
 - So basically, these are the same tools that developers use every day.  And it's *way* better than Wordpress!
 - We've open-sourced all of it too.  Help us improve it!
 - Even this file is a Markdown file.  You can help us edit and improve it!
