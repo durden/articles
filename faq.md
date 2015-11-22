@@ -1,6 +1,4 @@
-# Welcome!
-
-This is a community for collaborating on creating great technical tutorials.
+Welcome!  This is a community for collaborating on creating great technical tutorials.
 Our collective aim is by working together, we can educate the world, plus improve our knowledge.
 Think of this as a "Wikipedia" for technical tutorials.
 
