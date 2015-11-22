@@ -1,29 +1,13 @@
 - Why would I write for Pluralsight Tutorials?
     - Get access to free Pluralsight training videos
     - Give your expertise back to the community
-    - Improve your personal brand, leading to opportunities for your
+    - Improve your personal brand, leading to opportunities for your career
 - Why does Pluralsight Tutorials want content?
-    - We want to be the best place for accessing great tutorial conent on the
-      web, and we're passionate about providing a platform for experts to
-      improve their personal reach while teaching others.
+    - We want to be the best place for accessing great tutorial conent on the web, and we're passionate about providing a platform for experts to improve their personal reach while teaching others.
 - Can you help me edit/revise the article?
-    - Yes! That's why we've built the editing tools on this site. It's easy to
-      share a link to your article on social media and crowdsource expert-level
-      editors for your topic.  You'll be able to see suggestions from the
-      community and accept the changes you want.
-- Can I cross-post on my own blog?
-    - Yes!  But from an SEO perspective, Google will hit us with a duplicate
-      content penalty if we both post it without being careful about it.  Here
-      is what to do:
-
-    - Wait 2 weeks before posting, from the day it goes live on HackHands
-    - From inside your blog's version of the article, link back to the
-       original source on HackHands, using the tag "rel=canonical".  The
-       canonical tag makes it clear to Google that the content is syndicated.
-       See this article about the [Canonical tag](http://www.shoutmeloud.com/relcanonical-wordpresss-content-syndication-seo.html").
-- What types of articles are you looking for?
-    - We're generally looking for tutorials on programing with X where X is a
-      technology or library you're passionate about.
+    - Yes! That's why we've built the editing tools on this site. It's easy to share a link to your article on social media and crowdsource expert-level editors for your topic.  You'll be able to see suggestions from the community and accept the changes you want.
+- What types of articles are appropriate to post?
+    - This is a community of technical tutotirals.  Feel free to write about any technology that you're passionate about.
 - How long should the article be?
     - What's most important is that its a definitive article on the subject, is
       super useful, and is linked-to from other sites.  Longform articles are a
