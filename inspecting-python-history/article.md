@@ -83,7 +83,7 @@ just search for that issue number on the site. You will find an
 [explanation](http://bugs.python.org/issue6370) of the 'bug' and the change
 associated with it.
 
-## Solution
+## Mystery solved
 
 Turns out it was performance related after all, replacing `self[elem]` with
 something like `self.get(elem, 0)` is faster.
