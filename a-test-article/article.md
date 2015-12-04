@@ -1,1 +1,0 @@
-Hi my name is Prateek, and we are testing caching.
