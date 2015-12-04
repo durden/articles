@@ -1,3 +1,0 @@
-Brand new article
-
-### Hi.
