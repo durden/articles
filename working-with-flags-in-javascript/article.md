@@ -1,5 +1,3 @@
-# Working with Flags
-
 In development there is a concept called flags. They can be used for lots and lots of different things. The use case we are going to talk today about is protecting data. 
 
 Sometimes you want to be able to protect a variable in certain situations. Today we are going to talk about a use case in Javascript where we want to retain the data inside a div that we replaced.
