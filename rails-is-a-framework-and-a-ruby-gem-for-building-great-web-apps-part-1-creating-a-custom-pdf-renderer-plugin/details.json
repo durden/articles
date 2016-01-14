@@ -1,9 +1,13 @@
 {
     "author_name": "durden",
+    "author_real_name": "Luke Lee",
     "branch": "master",
     "branches": [],
     "filename": "article.md",
-    "language": null,
+    "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
     "published": false,
+    "stacks": [
+        "Ruby, Ruby on Rails"
+    ],
     "title": "Rails is a Framework and a Ruby Gem For Building Great Web Apps Part 1: Creating a Custom PDF Renderer Plugin "
 }
