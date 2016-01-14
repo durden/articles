@@ -6,6 +6,9 @@
     ],
     "filename": "article.md",
     "language": null,
+    "stacks": [
+        "Front-End JavaScript (Angular, React, Meteor, etc)"
+    ],
     "published": true,
     "title": "Working With Flags in JavaScript",
     "image_url": "https://avatars.githubusercontent.com/u/1348053?v=3"
