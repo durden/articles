@@ -1,12 +1,13 @@
 {
     "author_name": "durden",
+    "author_real_name": "Luke Lee",
     "branch": "master",
-    "branches": [
-        "prtkgpt",
-        "perkolasoft"
-    ],
+    "branches": [],
     "filename": "article.md",
-    "language": null,
+    "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
     "published": false,
+    "stacks": [
+        "C/C++"
+    ],
     "title": "hello world"
 }
