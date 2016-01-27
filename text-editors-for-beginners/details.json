@@ -1,9 +1,14 @@
 {
     "author_name": "shadowcodex",
+    "author_real_name": null,
     "branch": "master",
-    "branches": [],
+    "branches": [
+        "durden"
+    ],
     "filename": "article.md",
+    "image_url": null,
     "language": null,
     "published": false,
+    "stacks": [],
     "title": "Text Editors for Beginners"
 }
