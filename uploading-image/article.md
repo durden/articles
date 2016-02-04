@@ -1,2 +1,3 @@
 ### Testing article with image upload
-![description](http://raw.githubusercontent.com/durden/articles/master/images/0f6b5482-7bba-4744-9fdc-9c4b8a4bc23d.jpg)
+![description]
+(http://raw.githubusercontent.com/durden/articles/master/images/0f6b5482-7bba-4744-9fdc-9c4b8a4bc23d.jpg)
