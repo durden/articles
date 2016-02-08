@@ -1,2 +1,2 @@
-- [Welcome to Pluralsight Tutorials](/review/welcome-to-pluralsight-tutorials) by [prtkgpt](/user/prtkgpt) 
-- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
+- [Welcome to Pluralsight Tutorials](http://pskb-stage.herokuapp.com//review/welcome-to-pluralsight-tutorials) by [prtkgpt](http://pskb-stage.herokuapp.com//user/prtkgpt) 
+- [Working With Flags in JavaScript](http://pskb-stage.herokuapp.com//review/working-with-flags-in-javascript) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
