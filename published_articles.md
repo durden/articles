@@ -1,0 +1,2 @@
+- [Welcome to Pluralsight Tutorials](/review/welcome-to-pluralsight-tutorials) by [prtkgpt](/user/prtkgpt) 
+- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
