@@ -15,4 +15,3 @@
 - [Test with HTML](http://pskb-stage.herokuapp.com//review/test-with-html) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) HTML/CSS
 - [Text Editors for Beginners](http://pskb-stage.herokuapp.com//review/text-editors-for-beginners) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) 
 - [Uploading image](http://pskb-stage.herokuapp.com//review/uploading-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
-- [Working With Flags in JavaScript](http://pskb-stage.herokuapp.com) by [shadowcodex](http://pskb-stage.herokuapp.com/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
