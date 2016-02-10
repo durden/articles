@@ -16,4 +16,3 @@
 - [Text Editors for Beginners](http://pskb-stage.herokuapp.com//review/text-editors-for-beginners) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) 
 - [Uploading image](http://pskb-stage.herokuapp.com//review/uploading-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
 - [this is my article](http://pskb-stage.herokuapp.com//review/this-is-my-article) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
-- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
