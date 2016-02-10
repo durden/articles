@@ -20,4 +20,3 @@
 - [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
 - [Just another boring article](/review/just-another-boring-article?branch=master) by [durden](/user/durden) Java and J2EE
 - [Beyond PEP8](/review/beyond-pep8) by [durden](/user/durden) Python
-- [Hooray for performance improvements](/review/hooray-for-performance-improvements?branch=master) by [durden](/user/durden) 
