@@ -19,3 +19,4 @@
 - [Working With Flags in JavaScript](http://pskb-stage.herokuapp.com/review/working-with-flags-in-javascript) by [shadowcodex](http://pskb-stage.herokuapp.com/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
 - [Beyond PEP8](http://pskb-stage.herokuapp.com/review/beyond-pep8) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Getting started with emacs](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
+- [Beginners guide to vim](/review/beginners-guide-to-vim) by [perkolasoft](/user/perkolasoft) 
