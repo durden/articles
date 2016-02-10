@@ -18,3 +18,4 @@
 - [Uploading image](http://pskb-stage.herokuapp.com//review/uploading-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
 - [this is my article](http://pskb-stage.herokuapp.com//review/this-is-my-article) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
 - [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
+- [Just another boring article](/review/just-another-boring-article?branch=master) by [durden](/user/durden) C/C++
