@@ -20,4 +20,3 @@
 - [Beyond PEP8](http://pskb-stage.herokuapp.com/review/beyond-pep8) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Beginners guide to vim](http://pskb-stage.herokuapp.com/review/beginners-guide-to-vim) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
 - [Getting started with emacs](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
-- [Getting started with javascript](http://pskb-stage.herokuapp.com/review/getting-started-with-javascript) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
