@@ -5,9 +5,9 @@
     "branches": [],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "published": true,
+    "published": false,
     "stacks": [
-        "C/C++"
+        "Java and J2EE"
     ],
     "title": "Just another boring article"
 }
