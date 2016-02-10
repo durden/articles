@@ -6,7 +6,6 @@
 - [hello world](http://pskb-stage.herokuapp.com//review/hello-world) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) C/C++
 - [Inspecting Python history](http://pskb-stage.herokuapp.com//review/inspecting-python-history) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
 - [My image article](http://pskb-stage.herokuapp.com//review/my-image-article) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
-- [nothing good here](http://pskb-stage.herokuapp.com//review/nothing-good-here) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com//user/perkolasoft) 
 - [One more article with an image](http://pskb-stage.herokuapp.com//review/one-more-article-with-an-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
 - [Partial function uses](http://pskb-stage.herokuapp.com//review/partial-function-uses) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
 - [Profiling memory usage in Python](http://pskb-stage.herokuapp.com//review/profiling-memory-usage-in-python) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
@@ -17,6 +16,5 @@
 - [Text Editors for Beginners](http://pskb-stage.herokuapp.com//review/text-editors-for-beginners) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) 
 - [Uploading image](http://pskb-stage.herokuapp.com//review/uploading-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
 - [this is my article](http://pskb-stage.herokuapp.com//review/this-is-my-article) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
-- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
-- [Just another boring article](/review/just-another-boring-article?branch=master) by [durden](/user/durden) Java and J2EE
-- [Beyond PEP8](/review/beyond-pep8) by [durden](/user/durden) Python
+- [Working With Flags in JavaScript](http://pskb-stage.herokuapp.com//review/working-with-flags-in-javascript) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
+- [Beyond PEP8](http://pskb-stage.herokuapp.com//review/beyond-pep8) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
