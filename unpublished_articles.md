@@ -15,4 +15,4 @@
 - [Test with HTML](http://pskb-stage.herokuapp.com//review/test-with-html) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) HTML/CSS
 - [Text Editors for Beginners](http://pskb-stage.herokuapp.com//review/text-editors-for-beginners) by [shadowcodex](http://pskb-stage.herokuapp.com//user/shadowcodex) 
 - [Uploading image](http://pskb-stage.herokuapp.com//review/uploading-image) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) 
-- [A brand new article by me](/review/a-brand-new-article-by-me?branch=master) by [durden](/user/durden) Go
+- [this is my article](http://pskb-stage.herokuapp.com//review/this-is-my-article) by [Luke Lee](http://pskb-stage.herokuapp.com//user/durden) Python
