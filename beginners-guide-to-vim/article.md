@@ -1,1 +1,1 @@
-vim --help
+vim --help or vim -h
