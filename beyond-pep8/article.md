@@ -8,7 +8,7 @@ thing to do. His most
 provides key insights for beginners and seasoned veterans alike as he focuses
 on the practice of 'PEP8-ing' code.
 
-I'm sure you're familiar with this term if you've worked a
+You're familiar with this term if you've worked a
 [Python](http://python.org) application with more than 1 developer in the past.
 Typically a newcomer on the project will try to get involved and go around
 cleaning up whitespace, line lengths, and other miscellaneous things that tools
