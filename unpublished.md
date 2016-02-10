@@ -20,3 +20,4 @@
 - [Beyond PEP8](http://pskb-stage.herokuapp.com/review/beyond-pep8) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Getting started with emacs](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
 - [Beginners guide to vim](/review/beginners-guide-to-vim) by [perkolasoft](/user/perkolasoft) 
+- [Just another boring article](/review/just-another-boring-article) by [durden](/user/durden) Java and J2EE
