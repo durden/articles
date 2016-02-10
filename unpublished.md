@@ -20,3 +20,4 @@
 - [Getting started with emacs](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
 - [Beginners guide to vim](/review/beginners-guide-to-vim) by [perkolasoft](/user/perkolasoft) 
 - [Just another boring article](/review/just-another-boring-article) by [durden](/user/durden) Java and J2EE
+- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
