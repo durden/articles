@@ -22,4 +22,3 @@
 - [Just another boring article](/review/just-another-boring-article) by [durden](/user/durden) Java and J2EE
 - [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
 - [JavaScript Callbacks Variable Scope Problem](http://pskb-stage.herokuapp.com/review/javascript-callbacks-variable-scope-problem) by [Prateek Gupta](http://pskb-stage.herokuapp.com/user/prtkgpt) Front-End JavaScript (Angular, React, Meteor, etc)
-- [how to bake a cookie](http://pskb-stage.herokuapp.com/review/how-to-bake-a-cookie) by [Prateek Gupta](http://pskb-stage.herokuapp.com/user/prtkgpt) Java and J2EE
