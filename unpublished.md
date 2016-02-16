@@ -18,7 +18,7 @@
 - [this is my article](http://pskb-stage.herokuapp.com/review/this-is-my-article) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Beyond PEP8](http://pskb-stage.herokuapp.com/review/beyond-pep8) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Getting started with emacs](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
-- [Beginners guide to vim](/review/beginners-guide-to-vim) by [perkolasoft](/user/perkolasoft) 
-- [Just another boring article](/review/just-another-boring-article) by [durden](/user/durden) Java and J2EE
-- [Working With Flags in JavaScript](/review/working-with-flags-in-javascript) by [shadowcodex](/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
+- [Beginners guide to vim](http://pskb-stage.herokuapp.com/review/beginners-guide-to-vim) by [Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) 
+- [Just another boring article](http://pskb-stage.herokuapp.com/review/just-another-boring-article) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Java and J2EE
+- [Working With Flags in JavaScript](http://pskb-stage.herokuapp.com/review/working-with-flags-in-javascript) by [shadowcodex](http://pskb-stage.herokuapp.com/user/shadowcodex) Front-End JavaScript (Angular, React, Meteor, etc)
 - [JavaScript Callbacks Variable Scope Problem](http://pskb-stage.herokuapp.com/review/javascript-callbacks-variable-scope-problem) by [Prateek Gupta](http://pskb-stage.herokuapp.com/user/prtkgpt) Front-End JavaScript (Angular, React, Meteor, etc)
