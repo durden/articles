@@ -1,6 +1,5 @@
 # In-review
 
-- [Be careful what you import](http://pskb-stage.herokuapp.com/review/be-careful-what-you-import) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [Faster single column slicing with DataFrames](http://pskb-stage.herokuapp.com/review/faster-single-column-slicing-with-dataframes) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
 - [hello world](http://pskb-stage.herokuapp.com/review/hello-world) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) C/C++
 - [Inspecting Python history](http://pskb-stage.herokuapp.com/review/inspecting-python-history) by [Luke Lee](http://pskb-stage.herokuapp.com/user/durden) Python
