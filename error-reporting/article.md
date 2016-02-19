@@ -132,7 +132,7 @@ Now let's see what happens when we run our snippet after
 [setting](http://docs.python.org/2/library/logging.html#logging.Logger.setLevel)
 the log level set to `DEBUG`.
 
-[code lang="python"]
+```python
     >>> test()
     list index out of range
     bad news
@@ -140,7 +140,7 @@ the log level set to `DEBUG`.
     File "<ipython-input-21-69b02ac65835>", line 4, in test
         idx = x[0]
     IndexError: list index out of range
-[/code]
+```
 
 ## Solution: balance and care
 
