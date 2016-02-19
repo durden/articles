@@ -14,6 +14,7 @@
 ### Hooray for performance improvements by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/hooray-for-performance-improvements)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- [Thumbnail](http://i.imgur.com/LqAMXtn.png)
 
 ### Welcome to Pluralsight Tutorials by prtkgpt
 - [Read the guide](http://pskb-stage.herokuapp.com/review/welcome-to-pluralsight-tutorials)
