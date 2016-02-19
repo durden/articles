@@ -41,6 +41,7 @@
 ### My image article by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/my-image-article)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- [Thumbnail](https://raw.githubusercontent.com/durden/articles/master/images/dc622a2f-673c-4466-ade3-3b1122dc7d6d.jpg)
 
 ### One more article with an image by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/one-more-article-with-an-image)
