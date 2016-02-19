@@ -9,5 +9,6 @@
     "stacks": [
         "Python"
     ],
-    "title": "Beyond PEP8"
+    "title": "Beyond PEP8",
+    "thumbnail_url": "https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png"
 }
