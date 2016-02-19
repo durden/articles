@@ -68,9 +68,9 @@
 ### Uploading image by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/uploading-image)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+
 ### Working With Flags in JavaScript by shadowcodex
 - [Read the guide](http://pskb-stage.herokuapp.com/review/working-with-flags-in-javascript)
 - [Read more from shadowcodex](http://pskb-stage.herokuapp.com/user/shadowcodex) <img src="https://avatars.githubusercontent.com/u/1348053?v=3" width="30" height="30" alt="shadowcodex" />
 - Related to: Front-End JavaScript (Angular, React, Meteor, etc)
-
 
