@@ -1,7 +1,7 @@
 # The fine art of error reporting
 
 All programs encounter errors at some point.  These errors can range
-from very obvious to the dreaded
+from obvious to the dreaded
 [bugfoot](http://www.urbandictionary.com/define.php?term=bugfoot&defid=4960803).
 So, as a developer when you encounter an error condition you have an important
 decision to make.  You have to decide how **much** information to expose and
