@@ -106,7 +106,7 @@ block and have the same effect as `logging.exception` except in the debug
 
 Below are some examples along with what you would see printed:
 
-[code lang="python"]
+```python
     def test():
         x = []
         try:               
@@ -126,7 +126,7 @@ Below are some examples along with what you would see printed:
             log.debug('bad news', exc_info=True)
     >>> test()
     list index out of range
-[/code]
+```
 
 Now let's see what happens when we run our snippet after
 [setting](http://docs.python.org/2/library/logging.html#logging.Logger.setLevel)
