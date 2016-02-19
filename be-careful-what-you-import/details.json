@@ -11,5 +11,6 @@
     "stacks": [
         "Python"
     ],
-    "title": "Be careful what you import"
+    "title": "Be careful what you import",
+    "thumbnail_url": "https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png"
 }
