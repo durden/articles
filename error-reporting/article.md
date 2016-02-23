@@ -38,6 +38,8 @@ error information into another 'stream' for warnings, errors, etc.
 
 ## Logging for users
 
+![description](https://raw.githubusercontent.com/durden/articles/master/images/57f79332-86b0-44a0-b206-72a06ec0dc63.png)
+
 From a technical point of view, logging for users should probably be limited to 
 the `info`, `warning`, and `error` 'streams'[2].  In addition, you'll most likely
 want to use plain language that 'typical' users can be expected to understand.
