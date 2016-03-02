@@ -1,4 +1,3 @@
-
 ### Beginners guide to vim by Charles (Luke) Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/beginners-guide-to-vim)
 - [Read more from Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
@@ -93,8 +92,6 @@
 - [Read the guide](http://pskb-stage.herokuapp.com/review/working-with-flags-in-javascript)
 - [Read more from shadowcodex](http://pskb-stage.herokuapp.com/user/shadowcodex) <img src="https://avatars.githubusercontent.com/u/1348053?v=3" width="30" height="30" alt="shadowcodex" />
 - Related to: Front-End JavaScript (Angular, React, Meteor, etc)
-
-
 
 ### Error reporting by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/error-reporting)
