@@ -13,11 +13,6 @@
 - Related to: Python
 - [Thumbnail](https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png)
 
-### Faster single column slicing with DataFrames by Luke Lee
-- [Read the guide](http://pskb-stage.herokuapp.com/review/faster-single-column-slicing-with-dataframes)
-- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Python
-
 ### Getting started with emacs by Charles (Luke) Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/getting-started-with-emacs)
 - [Read more from Charles (Luke) Lee](http://pskb-stage.herokuapp.com/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
