@@ -1,3 +1,7 @@
+### Title häs üniçödē by Luke Lee
+- [Read the guide](/review/title-has-unicode)
+- [Read more from Luke Lee](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+
 ### Be careful what you import by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/review/be-careful-what-you-import)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
