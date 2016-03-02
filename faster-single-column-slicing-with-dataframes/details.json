@@ -7,9 +7,10 @@
     ],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "published": false,
+    "published": true,
     "stacks": [
         "Python"
     ],
+    "thumbnail_url": null,
     "title": "Faster single column slicing with DataFrames"
 }
