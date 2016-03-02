@@ -1,7 +1,3 @@
-### basically nothing by Luke Lee
-- [Read the guide](/review/basically-nothing)
-- [Read more from Luke Lee](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-
 ### Title häs üniçödē by Luke Lee
 - [Read the guide](/review/title-has-unicode)
 - [Read more from Luke Lee](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
