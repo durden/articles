@@ -6,7 +6,7 @@ lead to a big waste of memory.
 
 ### Searching imports dynamically
 
-I learned this lesson while recently writing a
+I learned this lesson while writing a
 [tool](https://gist.github.com/durden/4723305) to search a
 [Python](http://python.org)
 [module](http://docs.python.org/2/tutorial/modules.html) and/or
