@@ -28,12 +28,6 @@
 - [Read more from Charles (Luke) Lee](https://tutorials.pluralsight.com/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
 - Related to: other
 
-### Beyond PEP8 by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/python/beyond-pep8?status=draft)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: python
-- [Thumbnail](https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png)
-
 ### Getting started with emacs by Charles (Luke) Lee
 - [Read the guide](https://tutorials.pluralsight.com/other/getting-started-with-emacs?status=draft)
 - [Read more from Charles (Luke) Lee](https://tutorials.pluralsight.com/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
