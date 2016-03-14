@@ -4,6 +4,9 @@
     "branches": [],
     "filename": "article.md",
     "language": null,
-    "title": "Welcome to Pluralsight Tutorials",
-    "published": true
+    "publish_status": "published",
+    "stacks": [
+        "other"
+    ],
+    "title": "Welcome to Pluralsight Tutorials"
 }

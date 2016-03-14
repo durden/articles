@@ -5,7 +5,9 @@
     "branches": [],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "published": false,
-    "stacks": [],
+    "publish_status": "draft",
+    "stacks": [
+        "other"
+    ],
     "title": "My image article"
 }

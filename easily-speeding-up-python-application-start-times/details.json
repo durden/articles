@@ -7,10 +7,10 @@
     ],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "published": true,
+    "publish_status": "published",
     "stacks": [
         "Python"
     ],
-    "title": "Easily speeding up Python application start times",
-    "thumbnail_url": null
+    "thumbnail_url": null,
+    "title": "Easily speeding up Python application start times"
 }

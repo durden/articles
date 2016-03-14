@@ -5,10 +5,10 @@
     "branches": [],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "published": false,
+    "publish_status": "draft",
     "stacks": [
         "Python"
     ],
-    "title": "Beyond PEP8",
-    "thumbnail_url": "https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png"
+    "thumbnail_url": "https://raw.githubusercontent.com/durden/articles/master/images/pythonimage.png",
+    "title": "Beyond PEP8"
 }

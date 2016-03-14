@@ -5,7 +5,9 @@
     "branches": [],
     "filename": "article.md",
     "image_url": "https://avatars.githubusercontent.com/u/15053257?v=3",
-    "published": false,
-    "stacks": [],
+    "publish_status": "draft",
+    "stacks": [
+        "other"
+    ],
     "title": "Getting started with emacs"
 }
