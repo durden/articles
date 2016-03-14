@@ -1,5 +1,5 @@
 Typically Python applications are comprised of several Python source (.py)
-files. The end-user of the application runs these Python source
+files. The end-user of the app runs these Python source
 files by supplying them to the python command. This process instructs the
 Python interpreter to translate each .py file into
 [Python byte code](https://docs.python.org/2/glossary.html#term-bytecode) that
