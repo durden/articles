@@ -1,4 +1,4 @@
-I learned a lesson recently about being careful what you import into a
+I recently learned about being careful what you import into a
 [Python](http://python.org) application. The majority of the time I just find
 the module I need, import, use, and then move on. However, sometimes an
 [unnecessary import](http://pyqt.sourceforge.net/Docs/PyQt4/modules.html) can
