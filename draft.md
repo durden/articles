@@ -1,3 +1,8 @@
+### test by Luke Lee
+- [Read the guide](http://pskb-stage.herokuapp.com/other/test?status=draft)
+- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: other
+
 ### yello by Charles (Luke) Lee
 - [Read the guide](/python/yello?status=draft)
 - [Read more from Charles (Luke) Lee](/author/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
