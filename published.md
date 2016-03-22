@@ -14,11 +14,6 @@
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: Python
 
-### Hooray for performance improvements by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/other/hooray-for-performance-improvements)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: other
-
 ### Welcome to Pluralsight Tutorials by prtkgpt
 - [Read the guide](https://tutorials.pluralsight.com/other/welcome-to-pluralsight-tutorials)
 - [Read more from prtkgpt](https://tutorials.pluralsight.com/user/prtkgpt)
