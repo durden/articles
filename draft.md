@@ -78,11 +78,6 @@
 - [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: python
 
-### Sneaky PEP8 by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/python/sneaky-pep8?status=draft)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: python
-
 ### Test with HTML by Luke Lee
 - [Read the guide](https://tutorials.pluralsight.com/html-css/test-with-html?status=draft)
 - [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
