@@ -1,0 +1,15 @@
+{
+    "_publish_status": "draft",
+    "author_name": "perkolasoft",
+    "author_real_name": "Charles (Luke) Lee",
+    "branch": "master",
+    "branches": [],
+    "filename": "article.md",
+    "first_commit": "79c393a2e84c880699ef8ac1e1b62eea2c324409",
+    "image_url": "https://avatars.githubusercontent.com/u/15053257?v=3",
+    "stacks": [
+        "Python"
+    ],
+    "thumbnail_url": null,
+    "title": "Sneaky PEP8"
+}
