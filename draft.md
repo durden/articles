@@ -3,11 +3,6 @@
 - [Read more from Charles (Luke) Lee](/author/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
 - Related to: Python
 
-### Beyond PEP8 by Charles (Luke) Lee
-- [Read the guide](http://pskb-stage.herokuapp.com/python/beyond-pep8?status=draft)
-- [Read more from Charles (Luke) Lee](http://pskb-stage.herokuapp.com/author/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
-- Related to: Python
-
 ### yo by Charles (Luke) Lee
 - [Read the guide](/other/yo?status=draft)
 - [Read more from Charles (Luke) Lee](/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
