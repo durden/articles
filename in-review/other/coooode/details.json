@@ -1,4 +1,5 @@
 {
+    "_publish_status": "in-review",
     "author_name": "durden",
     "author_real_name": "Luke Lee",
     "branch": "master",
@@ -6,7 +7,6 @@
     "filename": "article.md",
     "first_commit": "051a14a449a333afbbd7f7448867b24bc41c732f",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
-    "publish_status": "draft",
     "stacks": [
         "other"
     ],
