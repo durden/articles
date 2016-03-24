@@ -23,11 +23,6 @@
 - [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: other
 
-### Faster single column slicing with DataFrames by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/python/faster-single-column-slicing-with-dataframes?status=draft)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: python
-
 ### Great guide by Luke Lee
 - [Read the guide](https://tutorials.pluralsight.com/node-js/great-guide?status=draft)
 - [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
