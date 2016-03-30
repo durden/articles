@@ -19,8 +19,8 @@
 - Related to: other
 
 ### Title häs üniçödē by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/other/title-has-unicode)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- [Read the guide](http://pskb-stage.herokuapp.com/other/title-has-unicode)
+- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: other
 
 ### Easily speeding up Python application start times by Luke Lee
