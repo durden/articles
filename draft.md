@@ -1,3 +1,8 @@
+### paulo test 1 by Paulo Cheque
+- [Read the guide](http://pskb-stage.herokuapp.com/python/paulo-test-1?status=draft)
+- [Read more from Paulo Cheque](http://pskb-stage.herokuapp.com/author/paulocheque) <img src="https://avatars.githubusercontent.com/u/94350?v=3" width="30" height="30" alt="Paulo Cheque" />
+- Related to: Python
+
 ### new editor yaay by Prateek Gupta
 - [Read the guide](http://pskb-stage.herokuapp.com/java-and-j2ee/new-editor-yaay?status=draft)
 - [Read more from Prateek Gupta](http://pskb-stage.herokuapp.com/author/prtkgpt) <img src="https://avatars.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
