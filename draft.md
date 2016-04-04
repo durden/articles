@@ -1,3 +1,8 @@
+### paulo test 2 by Paulo Cheque
+- [Read the guide](http://pskb-stage.herokuapp.com/python/paulo-test-2?status=draft)
+- [Read more from Paulo Cheque](http://pskb-stage.herokuapp.com/author/paulocheque) <img src="https://avatars.githubusercontent.com/u/94350?v=3" width="30" height="30" alt="Paulo Cheque" />
+- Related to: Python
+
 ### paulo test 1 by Paulo Cheque
 - [Read the guide](http://pskb-stage.herokuapp.com/python/paulo-test-1?status=draft)
 - [Read more from Paulo Cheque](http://pskb-stage.herokuapp.com/author/paulocheque) <img src="https://avatars.githubusercontent.com/u/94350?v=3" width="30" height="30" alt="Paulo Cheque" />
