@@ -22,7 +22,7 @@ takes place).
 Now we need a list of what attributes to watch.  Then, we can provide a custom
 `__setattr__` [method](http://docs.python.org/2/reference/datamodel.html#object.__setattr__) that watches each attribute 'set' action and alert us when a specific attribute changes.
 
-[code lang="python"]
+```python
     def __setattr__(self, name, value):
         if name in ['myvar1', 'myvar2']:
             import traceback
@@ -30,7 +30,7 @@ Now we need a list of what attributes to watch.  Then, we can provide a custom
             # Print stack (without this __setattr__ call)
             traceback.print_stack(sys._getframe(1))
             print '%s -> %s = %s' % (repr(self), name, value)
-[/code]
+```
 
 The above approach works, but it doesn't give us much flexibility.
 
@@ -56,28 +56,39 @@ argument, a list of attributes to watch.
 
 ### Potential solution
 
-This sounds like a great use of a
-[Class Decorator](http://blog.genforma.com/2011/07/28/class-decorator-talk/).
-This is a perfect use case since the only information needed up front is the
-attributes to watch.  Then, we could add this behavior to any class
-simply by using the `@` decorator syntax.
+This sounds like a great use of a [Class Decorator](http://blog.genforma.com/2011/07/28/class-decorator-tal /).
+This is a perfect use case since the only information needed up front is the attributes to watch.  Then, we could add this behavior to any class simply by using the `@` decorator syntax.
 
 So, without further ado:
 
-[gist 4081514]
+```python
+def watch_variables(var_list):
+    """Usage:  @watch_variables(['myvar1', 'myvar2'])"""
+    def _decorator(cls):
+        def _setattr(self, name, value):
+            if name in var_list:
+                import traceback
+                import sys
+                # Print stack (without this __setattr__ call)
+                traceback.print_stack(sys._getframe(1))
+                print '%s -> %s = %s' % (repr(self), name, value)
 
-In a nutshell, we make our own `_setattr` method and then replace the decorated
-class's `__setattr__` with our own.  So, to watch attributes in a class simply
-put `@watch_variables` above your class with a list of attribute names.  For
-example:
+            return super(cls, self).__setattr__(name, value)
+        cls.__setattr__ = _setattr
+        return cls
+    return _decorator
+```
 
-[code lang="python"]
+In a nutshell, we make our own `_setattr` method and then replace the decorated class's `__setattr__` with our own.  So, to watch attributes in a class simply
+put `@watch_variables` above your class with a list of attribute names.  For example:
+
+```python
     @watch_variables(['foo', 'bar'])
     class BuggyClass(object):
         def __init__(self, foo, bar):
             self.foo = foo
             self.bar = bar
-[/code]
+```
 
 ### Good Enough?
 
@@ -87,17 +98,11 @@ class has a `list` attribute and it's modified by appending or some other
 mechanism.
 
 The `append()` method and other related list modification mechanisms are
-methods on the `list` attribute, not our class.  Thus, our custom version of
-`__setattr__` will never be called.
+methods on the `list` attribute, not our class.  Thus, our custom version of `__setattr__` will never be called.
 
-I'm sure this functionality could be added.  However, it wasn't immediately
-obvious to me at the time, and the above solution worked for my most recent
-debugging sprint.
+I'm sure this functionality could be added.  However, it wasn't immediately obvious to me at the time, and the above solution worked for my most recent debugging sprint.
 
-So, go show off your skills and
-[fork my solution](https://gist.github.com/4081514) and 'fix' this deficiency
-or point out a better solution altogether!
+So, go show off your skills and [fork my solution](https://gist.github.com/4081514) and 'fix' this deficiency or point out a better solution altogether!
 
-[1] I briefly discussed connecting to Python's attribute setting mechanism 
-during my [dunder talk](http://durden.github.com/dunder_talk/?full#1) so check
-that out if this sort of functionality interests you.
+[1] I briefly discussed connecting to Python's attribute setting mechanism
+during my [dunder talk](http://durden.github.com/dunder_talk/?full#1) so check that out if this sort of functionality interests you.
