@@ -1,15 +1,7 @@
-Each layer of abstraction typically adds some performance overhead. Often
-times that's a great tradeoff, but it's important to make the decision between
-fun
+[Pandas](http://pandas.pydata.org) is a great library for easily working with messy datasets that are big enough to fit in memory, but it's important to remember the performance overhead.
 
-[Pandas](http://pandas.pydata.org) is a great library for easily working with
-messy datasets that are big enough to fit in memory, but it's important to
-remember the performance overhead 
-
-Luckily Pandas exposes the raw numpy interface so we can bypass some of that
-overhead when it's not necessary. For example we can use the
-[values](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.values.html#pandas.Series.values)
-attribute on a [Series object](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html#pandas.Series) to speed up this operation by an order of magnitude (your mileage may vary).
+Luckily Pandas exposes the raw numpy interface so we can bypass some of that overhead when it's not necessary. For example we can use the
+[values](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.values.html#pandas.Series.values) attribute on a [Series object](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html#pandas.Series) to speed up this operation by an order of magnitude (your mileage may vary).
 
 
 ```python
@@ -61,5 +53,4 @@ Time for DF slice 0.01664686203
 Time for ndarray slice 0.00168609619141
 
 
-This technique can also be useful if you want to slice by a bunch of columns at
-once and then take the rows they have in common from the data frame.
+This technique can also be useful if you want to slice by a bunch of columns at once and then take the rows they have in common from the data frame.
