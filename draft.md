@@ -19,9 +19,9 @@
 - Related to: Python
 
 ### hihi by Luke Lee
-- [Read the guide](/php/hihi?status=draft)
+- [Read the guide](/go/hihi?status=draft)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: PHP
+- Related to: Go
 
 ### test by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/other/test?status=draft)
