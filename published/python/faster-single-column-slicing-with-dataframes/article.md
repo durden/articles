@@ -54,4 +54,4 @@ Time for DF slice 0.01664686203
 Time for ndarray slice 0.00168609619141
 
 
-This technique can also be useful if you want to slice by a bunch of columns at once and then take the rows they have in common from the data frame.
+This technique can also be useful to slice by a bunch of columns at once and then take the rows they have in common from the data frame.
