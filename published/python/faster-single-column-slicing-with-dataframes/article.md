@@ -50,6 +50,7 @@ Luckily Pandas exposes the raw numpy interface so we can bypass some of that ove
 
 
 Time for DF slice 0.01664686203
+
 Time for ndarray slice 0.00168609619141
 
 
