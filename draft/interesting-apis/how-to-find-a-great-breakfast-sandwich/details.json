@@ -5,7 +5,7 @@
     "branch": "master",
     "branches": [],
     "filename": "article.md",
-    "first_commit": "811bcf5e09a200af3938dca99c530b031f8c1488",
+    "first_commit": null,
     "image_url": "https://avatars.githubusercontent.com/u/2454349?v=3",
     "stacks": [
         "Interesting APIs (SendGrid, Twilio, etc)"
