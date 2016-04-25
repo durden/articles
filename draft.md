@@ -1,3 +1,8 @@
+### Tiny test by Luke Lee
+- [Read the guide](/c-c++/tiny-test?status=draft)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: C/C++
+
 ### How to find a great breakfast sandwich? by Prateek Gupta
 - [Read the guide](http://pskb-stage.herokuapp.com/interesting-apis/how-to-find-a-great-breakfast-sandwich?status=draft)
 - [Read more from Prateek Gupta](http://pskb-stage.herokuapp.com/author/prtkgpt) <img src="https://avatars.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
