@@ -1,3 +1,8 @@
+### hillo by Luke Lee
+- [Read the guide](/c-c++/hillo?status=draft)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: C/C++
+
 ### Refactor testing by Luke Lee
 - [Read the guide](/other/refactor-testing?status=draft)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
