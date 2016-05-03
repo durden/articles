@@ -1,0 +1,15 @@
+{
+    "_publish_status": "draft",
+    "author_name": "durden",
+    "author_real_name": "Luke Lee",
+    "branch": "master",
+    "branches": [],
+    "filename": "article.md",
+    "first_commit": "b08f53635c08d9da55b9f7f6d1bbc2ff32e74d30",
+    "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
+    "stacks": [
+        "Scala"
+    ],
+    "thumbnail_url": null,
+    "title": "Refactor testing"
+}
