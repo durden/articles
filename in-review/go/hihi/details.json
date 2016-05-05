@@ -4,7 +4,14 @@
     "author_real_name": "Luke Lee",
     "branch": "master",
     "branches": [
-        "perkolasoft"
+        [
+            "perkolasoft",
+            "perkolasoft"
+        ],
+        [
+            "perkolasoft",
+            "perkolasoft-go-hihi"
+        ]
     ],
     "filename": "article.md",
     "first_commit": "148f257d38fec36a65d211cfb2e4abc0dff3c764",
