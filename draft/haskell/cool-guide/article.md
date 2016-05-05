@@ -1,1 +1,1 @@
-brand spanking new
+brand spanking new and editable!
