@@ -1,1 +1,1 @@
-Stack shouldn't be required since it's possible users will write a guide that doesn't fit into any stack.
+Stack shouldn't be required since it's possible users will write guides that don't fit into any stack.
