@@ -1,3 +1,8 @@
+### test without stack by Luke Lee
+- [Read the guide](/other/test-without-stack?status=draft)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: other
+
 ### Testing first commit attribute by Luke Lee
 - [Read the guide](/erlang/testing-first-commit-attribute?status=draft)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
