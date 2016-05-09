@@ -1,8 +1,3 @@
-### Guide with escape characters by Luke Lee
-- [Read the guide](/other/guide-with-escape-characters)
-- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: other
-
 ### testing javasscript by Luke Lee
 - [Read the guide](/other/testing-javasscript)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
