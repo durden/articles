@@ -1,6 +1,6 @@
-# Testing with changes!
+# Testing with *changes*!
 
-``` 
+```latex
 abs(x) = \begin{dcases*}
         x & when `x \geq 0`\\
         -x & otherwise
