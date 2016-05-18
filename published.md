@@ -1,7 +1,7 @@
 ### testing javasscript by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/front-end-javascript/testing-javasscript)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Front End Javascript
+- Related to: Front-End JavaScript (Angular, React, Meteor, etc)
 
 ### Test with an image by Luke Lee
 - [Read the guide](/haskell/test-with-an-image)
