@@ -4,9 +4,9 @@
 - Related to: Front-End JavaScript (Angular, React, Meteor, etc)
 
 ### Test with an image by Luke Lee
-- [Read the guide](/haskell/test-with-an-image)
-- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Haskell
+- [Read the guide](http://pskb-stage.herokuapp.com/ruby-ruby-on-rails/test-with-an-image)
+- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Ruby, Ruby on Rails
 
 ### Faster single column slicing with DataFrames by Luke Lee
 - [Read the guide](/python/faster-single-column-slicing-with-dataframes)
