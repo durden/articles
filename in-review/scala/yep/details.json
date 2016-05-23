@@ -3,7 +3,12 @@
     "author_name": "durden",
     "author_real_name": "Luke Lee",
     "branch": "master",
-    "branches": [],
+    "branches": [
+        [
+            "perkolasoft",
+            "perkolasoft-scala-yep"
+        ]
+    ],
     "filename": "article.md",
     "first_commit": "54f079147834abd61ee04b774481f68bcffae5b7",
     "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
