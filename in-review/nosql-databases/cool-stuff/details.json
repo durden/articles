@@ -3,7 +3,12 @@
     "author_name": "perkolasoft",
     "author_real_name": "Charles (Luke) Lee",
     "branch": "master",
-    "branches": [],
+    "branches": [
+        [
+            "durden",
+            "durden-nosql-databases-cool-stuff"
+        ]
+    ],
     "filename": "article.md",
     "first_commit": "ccbb55428173d39adbd60fc10eccd772eb4bac2e",
     "image_url": "https://avatars.githubusercontent.com/u/15053257?v=3",
