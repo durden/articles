@@ -73,11 +73,6 @@
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: other
 
-### yep by Luke Lee
-- [Read the guide](/java-and-j2ee/yep?status=draft)
-- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Java and J2EE
-
 ### paulo test 2 by Paulo Cheque
 - [Read the guide](http://pskb-stage.herokuapp.com/python/paulo-test-2?status=draft)
 - [Read more from Paulo Cheque](http://pskb-stage.herokuapp.com/author/paulocheque) <img src="https://avatars.githubusercontent.com/u/94350?v=3" width="30" height="30" alt="Paulo Cheque" />
