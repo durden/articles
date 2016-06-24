@@ -1,3 +1,13 @@
+### hillo by Luke Lee
+- [Read the guide](/other/hillo)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: other
+
+### nosql by Luke Lee
+- [Read the guide](/nosql-databases/nosql)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: NoSQL Databases (MongoDB, Cassandra, etc)
+
 ### big data by Luke Lee
 - [Read the guide](/big-data/big-data)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
@@ -64,13 +74,13 @@
 - Related to: PHP
 
 ### testing javasscript by Luke Lee
-- [Read the guide](http://pskb-stage.herokuapp.com/front-end-javascript/testing-javasscript)
-- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Front-End JavaScript (Angular, React, Meteor, etc)
+- [Read the guide](/front-end-javascript/testing-javasscript)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: front-end-javascript
 
 ### Test with an image by Luke Lee
-- [Read the guide](http://pskb-stage.herokuapp.com/ruby-ruby-on-rails/test-with-an-image)
-- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- [Read the guide](/ruby-ruby-on-rails/test-with-an-image)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
 - Related to: Ruby, Ruby on Rails
 
 ### Faster single column slicing with DataFrames by Luke Lee
@@ -99,11 +109,11 @@
 - Related to: Python
 
 ### Welcome to Pluralsight Tutorials by prtkgpt
-- [Read the guide](https://tutorials.pluralsight.com/other/welcome-to-pluralsight-tutorials)
-- [Read more from prtkgpt](https://tutorials.pluralsight.com/user/prtkgpt)
+- [Read the guide](/other/welcome-to-pluralsight-tutorials)
+- [Read more from prtkgpt](/author/prtkgpt)
 - Related to: other
 
 ### Inspecting Python history by Luke Lee
-- [Read the guide](https://tutorials.pluralsight.com/python/inspecting-python-history)
-- [Read more from Luke Lee](https://tutorials.pluralsight.com/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: python
+- [Read the guide](/python/inspecting-python-history)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Python
