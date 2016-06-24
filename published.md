@@ -1,3 +1,8 @@
+### interesting apis by Luke Lee
+- [Read the guide](/interesting-apis/interesting-apis)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Interesting APIs (SendGrid, Twilio, etc)
+
 ### hillo by Luke Lee
 - [Read the guide](/other/hillo)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
