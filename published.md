@@ -1,3 +1,8 @@
+### big data by Luke Lee
+- [Read the guide](/big-data/big-data)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Big Data (Hadoop, Spark, etc)
+
 ### general sw by Luke Lee
 - [Read the guide](/software-engineering-best-practices/general-sw)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
