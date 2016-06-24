@@ -1,3 +1,8 @@
+### obj-c by Luke Lee
+- [Read the guide](/objective-c/obj-c)
+- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Objective C
+
 ### Testing first commit attribute by Luke Lee
 - [Read the guide](/erlang/testing-first-commit-attribute)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
