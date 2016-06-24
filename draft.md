@@ -1,8 +1,3 @@
-### obj-c by Luke Lee
-- [Read the guide](/objective-c/obj-c?status=draft)
-- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: Objective C
-
 ### Clojure test by Luke Lee
 - [Read the guide](/clojure/clojure-test?status=draft)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
