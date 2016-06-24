@@ -1,0 +1,15 @@
+{
+    "_publish_status": "draft",
+    "author_name": "durden",
+    "author_real_name": "Luke Lee",
+    "branch": "master",
+    "branches": [],
+    "filename": "article.md",
+    "first_commit": "00b046cb5e6bf6f7bda822b0e02fdbc2e5f5f865",
+    "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
+    "stacks": [
+        "Clojure"
+    ],
+    "thumbnail_url": null,
+    "title": "Clojure test"
+}
