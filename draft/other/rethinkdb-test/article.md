@@ -89,7 +89,7 @@ Install Codemirror with the following command: `bower install --save codemirror`
 
 By now, you're ready to use the technologies that we have installed. First, we need to create the two files that we will need. In the folder of your project, run the console commands `touch index.html` and `touch index.js` to create two blank files.
 
-In the HTML, you want to put the following Code:
+In the HTML, you want to put the following code:
 
 ```html
 <!doctype html>
@@ -140,7 +140,7 @@ http.listen(8080, '0.0.0.0', function(){
 });
 ```
 
-We start off by importing all of the packages that we installed earlier. Then we set up two routes using Express. The first route serves our `index.html` page, and the second route serves our `bower_components` folder. As a result, the HTML page can access the bower folder. If you were to run `node index.js` and navigate to `http://localhost:8080`, then you should see an HTML page with the CodeMirror editor. If you edit it, then the text on the page changes.
+We start off by importing all the packages that we installed earlier. Then we set up two routes using Express. The first route serves our `index.html` page, and the second route serves our `bower_components` folder. As a result, the HTML page can access the bower folder. If you were to run `node index.js` and navigate to `http://localhost:8080`, then you should see an HTML page with the CodeMirror editor. If you edit it, then the text on the page changes.
 
 ![Imgur](http://i.imgur.com/zj7FMk7.png)
 
