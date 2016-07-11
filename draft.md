@@ -1,3 +1,8 @@
+### another test 2016 by Luke Lee
+- [Read the guide](http://pskb-stage.herokuapp.com/other/another-test-2016?status=draft)
+- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: other
+
 ### test guide 2016 by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/python/test-guide-2016?status=draft)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
