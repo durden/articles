@@ -1,3 +1,8 @@
+### Visualizing tweets with PubNub's Stream Controller and CSS3 animations by Luke Lee
+- [Read the guide](http://pskb-stage.herokuapp.com/java-and-j2ee/visualizing-tweets-with-pubnub-s-stream-controller-and-css3-animations?status=in-review)
+- [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: Java and J2EE
+
 ### Testing refactor stuff by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/ruby-ruby-on-rails/testing-refactor-stuff?status=in-review)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
