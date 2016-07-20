@@ -1,0 +1,15 @@
+{
+    "_publish_status": "draft",
+    "author_name": "durden",
+    "author_real_name": "Luke Lee",
+    "branch": "master",
+    "branches": [],
+    "filename": "article.md",
+    "first_commit": "1cbd2e6bb29778cde3db4f1ab569280f6ea48df1",
+    "image_url": "https://avatars.githubusercontent.com/u/58063?v=3",
+    "stacks": [
+        "Java and J2EE"
+    ],
+    "thumbnail_url": null,
+    "title": "Visualizing tweets with PubNub's Stream Controller and CSS3 animations"
+}
