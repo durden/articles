@@ -1,8 +1,3 @@
-### brand new with proxy by Luke Lee
-- [Read the guide](http://tutorials-stage.pluralsight.com/other/brand-new-with-proxy?status=draft)
-- [Read more from Luke Lee](http://tutorials-stage.pluralsight.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: other
-
 ### last test by Luke Lee
 - [Read the guide](http://pskb-stage.herokuapp.com/java-and-j2ee/last-test?status=draft)
 - [Read more from Luke Lee](http://pskb-stage.herokuapp.com/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
