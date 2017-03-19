@@ -1,0 +1,20 @@
+{
+    "_publish_status": "draft",
+    "author_name": "durden",
+    "author_real_name": "Luke Lee",
+    "branch": "master",
+    "branches": [],
+    "contest_categories": [
+        "slack",
+        "nosql"
+    ],
+    "contest_name": "v2",
+    "filename": "article.md",
+    "first_commit": "314bfb33b6194f027cd5455446825107f57869e4",
+    "image_url": "https://avatars2.githubusercontent.com/u/58063?v=3",
+    "stacks": [
+        "Python"
+    ],
+    "thumbnail_url": null,
+    "title": "Contest test 2"
+}
