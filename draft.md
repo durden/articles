@@ -1,3 +1,8 @@
+### non-contest testing 1 by Luke Lee
+- [Read the guide](https://www.pluralsight.com/guides/c-c++/non-contest-testing-1?status=draft)
+- [Read more from Luke Lee](https://www.pluralsight.com/guides/author/durden) <img src="https://avatars2.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: C/C++
+
 ### Contest test by Luke Lee
 - [Read the guide](http://www.pluralsight.com/c-c++/contest-test?status=draft)
 - [Read more from Luke Lee](http://www.pluralsight.com/author/durden) <img src="https://avatars2.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
