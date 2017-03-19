@@ -4,7 +4,10 @@
     "author_real_name": "Luke Lee",
     "branch": "master",
     "branches": [],
-    "contest_categories": [],
+    "contest_categories": [
+        "api",
+        "slack"
+    ],
     "contest_name": "v2",
     "filename": "article.md",
     "first_commit": "67d2fe821fbc94a904fb9daeec90dc4eac01ab71",
