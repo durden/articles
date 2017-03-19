@@ -1,3 +1,8 @@
+### non-contest by Luke Lee
+- [Read the guide](http://www.pluralsight.com/c-c++/non-contest?status=in-review)
+- [Read more from Luke Lee](http://www.pluralsight.com/author/durden) <img src="https://avatars2.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
+- Related to: C/C++
+
 ### last test by Luke Lee
 - [Read the guide](/java-and-j2ee/last-test?status=in-review)
 - [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
