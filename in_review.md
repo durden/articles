@@ -1,3 +1,8 @@
+### TEST 1 by Prateek Gupta
+- [Read the guide](https://www.pluralsight.com/guides/sql/test-1?status=in-review)
+- [Read more from Prateek Gupta](https://www.pluralsight.com/guides/author/prtkgpt) <img src="https://avatars0.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
+- Related to: SQL
+
 ### Contest test 2 by Luke Lee
 - [Read the guide](http://www.pluralsight.com/python/contest-test-2?status=in-review)
 - [Read more from Luke Lee](http://www.pluralsight.com/author/durden) <img src="https://avatars2.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
