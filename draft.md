@@ -1,8 +1,3 @@
-### test2 by Prateek Gupta
-- [Read the guide](https://www.pluralsight.com/guides/python/test2?status=draft)
-- [Read more from Prateek Gupta](https://www.pluralsight.com/guides/author/prtkgpt) <img src="https://avatars0.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
-- Related to: Python
-
 ### non-contest testing 1 by Luke Lee
 - [Read the guide](https://www.pluralsight.com/guides/c-c++/non-contest-testing-1?status=draft)
 - [Read more from Luke Lee](https://www.pluralsight.com/guides/author/durden) <img src="https://avatars2.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
