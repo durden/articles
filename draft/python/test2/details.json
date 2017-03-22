@@ -1,0 +1,19 @@
+{
+    "_publish_status": "draft",
+    "author_name": "prtkgpt",
+    "author_real_name": "Prateek Gupta",
+    "branch": "master",
+    "branches": [],
+    "contest_categories": [
+        "slack"
+    ],
+    "contest_name": "v2",
+    "filename": "article.md",
+    "first_commit": "233a7aea3218ee3a9011793511541ca6efddab6b",
+    "image_url": "https://avatars0.githubusercontent.com/u/2454349?v=3",
+    "stacks": [
+        "Python"
+    ],
+    "thumbnail_url": null,
+    "title": "test2"
+}
