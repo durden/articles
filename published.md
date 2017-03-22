@@ -1,3 +1,8 @@
+### test2 by Prateek Gupta
+- [Read the guide](https://www.pluralsight.com/guides/python/test2)
+- [Read more from Prateek Gupta](https://www.pluralsight.com/guides/author/prtkgpt) <img src="https://avatars0.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
+- Related to: Python
+
 ### TEST 1 by Prateek Gupta
 - [Read the guide](https://www.pluralsight.com/guides/sql/test-1)
 - [Read more from Prateek Gupta](https://www.pluralsight.com/guides/author/prtkgpt) <img src="https://avatars0.githubusercontent.com/u/2454349?v=3" width="30" height="30" alt="Prateek Gupta" />
