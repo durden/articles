@@ -23,11 +23,6 @@
 - [Read more from Charles (Luke) Lee](/author/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
 - Related to: Python
 
-### hihi by Luke Lee
-- [Read the guide](/php/hihi?status=draft)
-- [Read more from Luke Lee](/author/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />
-- Related to: PHP
-
 ### text editor test by Luke Lee
 - [Read the guide](/other/text-editor-test?status=draft)
 - [Read more from Luke Lee](/author/durden)
